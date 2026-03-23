@@ -12,8 +12,6 @@ O objetivo do app é oferecer uma interface intuitiva e segura para o controle f
   <img src="https://github.com/edsonlimacode/App-financas/blob/main/banner.jpeg" alt="Fluxo do Aplicativo Finanças" width="100%">
 </p>
 
-*O fluxo acima ilustra as etapas de acesso rápido (login com FaceID), cadastro de novo usuário, tela de receitas (entradas) e tela de despesas (gastos).*
-
 ---
 
 ## 🛠️ Tecnologias e Stack Técnica
