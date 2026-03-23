@@ -1,0 +1,77 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+DerivedData/
+build/
+
+# Xcode workspace user settings
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+tmp/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.env
+*.secret
+*.secrets
+Secrets/
+Config/Secrets/
+Configs/Secrets/
+**/Secrets.swift
+**/Secret.swift
+**/*Secrets*.plist
+**/*Secrets*.json
+**/*Secret*.xcconfig
+**/*Private*.xcconfig
+**/*Local*.xcconfig
+GoogleService-Info.plist
+firebase.json
+
+# API keys and credentials dumps
+*.p8
+*.p12
+*.mobileprovision
+*.cer
+*.key
+
+# Archives and generated artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Test and coverage artifacts
+*.xcresult
+coverage/
+
