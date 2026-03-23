@@ -9,7 +9,7 @@ O objetivo do app é oferecer uma interface intuitiva e segura para o controle f
 ## 📸 Demonstração do Projeto
 
 <p align="center">
-  <img src="https://i.ibb.co/image_0.png" alt="Fluxo do Aplicativo Finanças" width="100%">
+  <img src="https://github.com/edsonlimacode/App-financas/blob/main/WhatsApp%20Image%202026-03-22%20at%2021.04.30.jpeg" alt="Fluxo do Aplicativo Finanças" width="100%">
 </p>
 
 *O fluxo acima ilustra as etapas de acesso rápido (login com FaceID), cadastro de novo usuário, tela de receitas (entradas) e tela de despesas (gastos).*
@@ -44,20 +44,3 @@ O app conta com recursos focados na experiência do usuário e na segurança:
 * **Fluxo de Finanças:** Cadastro de Receitas e Despesas com interface visual clara (verde para ganhos, vermelho para gastos).
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-1.  Clone o repositório.
-2.  Abra o arquivo `.xcodeproj` ou `.xcworkspace` (dependendo da sua gestão de dependências).
-3.  Configure suas credenciais do Supabase (URL e Key) no arquivo de configuração do projeto.
-4.  Execute no simulador (FaceID deve ser testado em dispositivo real ou com simulador configurado).
-
----
-
-## 👨‍💻 Desenvolvedor
-
-[Seu Nome/Link para seu perfil do LinkedIn]
-
-## Licença
-
-Este projeto está sob a licença [Nome da Licença, ex: MIT].
